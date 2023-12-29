@@ -131,4 +131,4 @@ MEDIA_ROOT = os.path.join(BASE_DIR, "static/images")
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-CSRF_TRUSTED_ORIGINS = ['https://web-production-6aa3.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-73bc.up.railway.app']
