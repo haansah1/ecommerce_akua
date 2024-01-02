@@ -18,7 +18,7 @@ for (let j = 0; j < updateEl.length; j++) {
             // console.log("User is logged in, sending data...")
         }
         console.log('USER:', user)
-        alert("item added successfully")
+        // alert("item added successfully")
     })
     
 }
